@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<note>
-       <to>Tove</to>
-       <from>Jani</Ffrom>
-       <heading>Reminder</heading>
-       <body>Don't forget me this weekend!</body>
-   </note>
+<junfeeds>
+   <category>
+       <color>FFE2FFF8</color>
+       <size>6</size>
+       <feedlist>
+          <name>test</name>
+          <feedurl>http://test.com</feedurl>
+          <description>This is a test</description>
+          <color>FFE2FFF8</color>
+       </feedlist>
+   </category>
+</junfeeds>
