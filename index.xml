@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <junfeeds>
    <category>
+      <tag>Test</tag>
        <color>FFE2FFF8</color>
        <size>6</size>
        <feedlist>
