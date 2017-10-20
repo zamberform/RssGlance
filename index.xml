@@ -7,7 +7,7 @@
           <name>test</name>
           <feedurl>http://test.com</feedurl>
           <description>This is a test</description>
-          <color>FFE2FFF8</color>
+          <feedcolor>FFE2FFF8</feedcolor>
        </feedlist>
    </category>
 </junfeeds>
