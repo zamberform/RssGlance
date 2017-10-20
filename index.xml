@@ -5,10 +5,12 @@
        <color>FFE2FFF8</color>
        <size>6</size>
        <feedlist>
-          <name>test</name>
-          <feedurl>http://test.com</feedurl>
-          <description>This is a test</description>
-          <feedcolor>FFE2FFF8</feedcolor>
+          <feed>
+            <name>test</name>
+            <feedurl>http://test.com</feedurl>
+            <description>This is a test</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
        </feedlist>
    </category>
 </junfeeds>
