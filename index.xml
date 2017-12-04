@@ -65,6 +65,36 @@
             <description>Engadget Japanese</description>
             <feedcolor>FFE2FFF8</feedcolor>
             </feed>
+            <feed>
+            <name>はてなブックマーク</name>
+            <feedurl>http://feeds.feedburner.com/hatena/b/hotentry</feedurl>
+            <description>はてなブックマーク</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>IDEA*IDEA</name>
+            <feedurl>http://www.ideaxidea.com/feed</feedurl>
+            <description>IDEA*IDEA</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>朝日新聞デジタル</name>
+            <feedurl>http://www3.asahi.com/rss/index.rdf</feedurl>
+            <description>朝日新聞デジタル</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>[N]ネタフル</name>
+            <feedurl>http://netafull.net/index.rdf</feedurl>
+            <description>[N]ネタフル</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>ニュー速クオリティ</name>
+            <feedurl>http://news4vip.livedoor.biz/index.rdf</feedurl>
+            <description>【2ch】ニュー速クオリティ</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
        </feedlist>
    </category>
 </junfeeds>
