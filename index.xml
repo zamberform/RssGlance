@@ -97,4 +97,130 @@
             </feed>
        </feedlist>
    </category>
+   <tag>他の人気サイト</tag>
+       <color>FFE2FFF8</color>
+       <size>6</size>
+       <feedlist>
+          <feed>
+            <name>スラッシュド</name>
+            <feedurl>http://slashdot.jp/slashdotjp.rss</feedurl>
+            <description>スラッシュド</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>TechCrunch Japan</name>
+            <feedurl>http://feed.rssad.jp/rss/techcrunch/feed</feedurl>
+            <description>TechCrunch Japan</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>ギズモード・ジャパン</name>
+            <feedurl>http://www.gizmodo.jp/atom.xml</feedurl>
+            <description>ギズモード・ジャパン</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>ライフハッカー</name>
+            <feedurl>http://feeds.lifehacker.jp/rss/lifehacker/index.xml</feedurl>
+            <description>ライフハッカー</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>堀江貴文オフィシャル</name>
+            <feedurl>http://rssblog.ameba.jp/takapon-jp/rss20.xml</feedurl>
+            <description>堀江貴文オフィシャル</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>デイリーポータルＺ</name>
+            <feedurl>http://portal.nifty.com/rss/headline.rdf</feedurl>
+            <description>デイリーポータルＺ</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>マイナビニュース</name>
+            <feedurl>http://feeds.feedburner.com/haishin/rss/index</feedurl>
+            <description>マイナビニュース</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>日刊スレッドガイド</name>
+            <feedurl>http://guideline.livedoor.biz/index.rdf</feedurl>
+            <description>日刊スレッドガイド</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>ハムスター速報</name>
+            <feedurl>http://hamusoku.com/index.rdf</feedurl>
+            <description>ハムスター速報</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>Touch Lab</name>
+            <feedurl>http://touchlab.jp/feed/atom/</feedurl>
+            <description>タッチ ラボ</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>iPhone/iPadアプリ</name>
+            <feedurl>http://www.appbank.net/feed</feedurl>
+            <description>iPhone/iPadアプリ</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>PC Watch</name>
+            <feedurl>http://pc.watch.impress.co.jp/sublink/pc.rdf</feedurl>
+            <description>PC Watch</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>INTERNET Watch</name>
+            <feedurl>http://internet.watch.impress.co.jp/cda/rss/internet.rdf</feedurl>
+            <description>INTERNET Watch</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>J-CASTニュース</name>
+            <feedurl>http://www.j-cast.com/index.xml</feedurl>
+            <description>J-CASTニュース</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>アルファルファモザイク</name>
+            <feedurl>http://alfalfalfa.com/index.rdf</feedurl>
+            <description>アルファルファモザイク</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>ニュー速VIPブログ</name>
+            <feedurl>http://blog.livedoor.jp/insidears/index.rdf</feedurl>
+            <description>ニュー速VIPブログ</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>らばQ</name>
+            <feedurl>http://labaq.com/index.rdf</feedurl>
+            <description>らばQ</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>Lifehacking.jp</name>
+            <feedurl>http://lifehacking.jp/feed/atom/</feedurl>
+            <description>Lifehacking.jp</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>＠IT 最新記事一覧</name>
+            <feedurl>http://rss.rssad.jp/rss/itmatmarkit/rss.xml</feedurl>
+            <description>＠IT 最新記事一覧</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>アキバBlog</name>
+            <feedurl>http://blog.livedoor.jp/geek/index.rdf</feedurl>
+            <description>秋葉原ブログ</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+       </feedlist>
+   </category>
 </junfeeds>
