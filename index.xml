@@ -1,14 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <junfeeds>
    <category>
-      <tag>Test</tag>
+      <tag>人気サイト</tag>
        <color>FFE2FFF8</color>
        <size>6</size>
        <feedlist>
           <feed>
-            <name>test</name>
-            <feedurl>http://test.com</feedurl>
-            <description>This is a test</description>
+            <name>痛いニュース</name>
+            <feedurl>http://blog.livedoor.jp/dqnplus/index.rdf</feedurl>
+            <description>痛いニュース(ﾉ∀`)</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>Gigazine</name>
+            <feedurl>http://gigazine.net/news/rss_2.0/</feedurl>
+            <description>GIGAZINE</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>CNET Japan</name>
+            <feedurl>http://feed.japan.cnet.com/rss/index.rdf</feedurl>
+            <description>CNET Japan最新情報</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>BLOGOS</name>
+            <feedurl>http://blogos.com/rss/blogos/summary.xml</feedurl>
+            <description>BLOGOS - 最新記事</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>ITライフハック</name>
+            <feedurl>http://itlifehack.jp/atom.xml</feedurl>
+            <description>ITライフハック</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>TechWave</name>
+            <feedurl>http://techwave.jp/feed/atom</feedurl>
+            <description>TechWave</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>アゴラ</name>
+            <feedurl>http://agora-web.jp/atom.xml</feedurl>
+            <description>アゴラ</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>Market Hack</name>
+            <feedurl>http://markethack.net/atom.xml</feedurl>
+            <description>Market Hack</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>100SHIKI</name>
+            <feedurl>http://www.100shiki.com/feed</feedurl>
+            <description>100SHIKI</description>
+            <feedcolor>FFE2FFF8</feedcolor>
+            </feed>
+            <feed>
+            <name>Engadget Japanese</name>
+            <feedurl>http://feed.rssad.jp/rss/engadget/rss</feedurl>
+            <description>Engadget Japanese</description>
             <feedcolor>FFE2FFF8</feedcolor>
             </feed>
        </feedlist>
